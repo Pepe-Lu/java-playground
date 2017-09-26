@@ -1,0 +1,29 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.project
+.settings
+.classpath
+target
+
+# logs #
+logs
+# idea # 
+.idea
+*.iml
+/bin/*
+Servers
+.metadata
+news\.settings
+news/WebRoot/WEB-INF/classes
+weixin\.settings
+weixin/WebRoot/WEB-INF/classes
+grunt
+npm-debug.log
+node_modules/
+#Mac os generated files
+.DS_Store
+.DS_Store?
